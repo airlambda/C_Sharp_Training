@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Airlangga.gunawan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Airlangga.gunawan\\.nuget\\packages"
+    ]
+  }
+}

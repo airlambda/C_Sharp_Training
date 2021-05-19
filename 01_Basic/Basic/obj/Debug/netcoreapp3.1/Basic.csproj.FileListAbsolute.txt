@@ -1,0 +1,13 @@
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\01_Basic\Basic\obj\Debug\netcoreapp3.1\Basic.genruntimeconfig.cache

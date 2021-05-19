@@ -1,0 +1,13 @@
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\bin\Debug\netcoreapp3.1\BasicAlgo.exe
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\bin\Debug\netcoreapp3.1\BasicAlgo.deps.json
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\bin\Debug\netcoreapp3.1\BasicAlgo.runtimeconfig.json
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\bin\Debug\netcoreapp3.1\BasicAlgo.runtimeconfig.dev.json
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\bin\Debug\netcoreapp3.1\BasicAlgo.dll
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\bin\Debug\netcoreapp3.1\BasicAlgo.pdb
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\obj\Debug\netcoreapp3.1\BasicAlgo.csprojAssemblyReference.cache
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\obj\Debug\netcoreapp3.1\BasicAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\obj\Debug\netcoreapp3.1\BasicAlgo.AssemblyInfoInputs.cache
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\obj\Debug\netcoreapp3.1\BasicAlgo.AssemblyInfo.cs
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\obj\Debug\netcoreapp3.1\BasicAlgo.dll
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\obj\Debug\netcoreapp3.1\BasicAlgo.pdb
+C:\Users\Airlangga.gunawan\Documents\C_Sharp_Training\02_BasicAlgo\BasicAlgo\obj\Debug\netcoreapp3.1\BasicAlgo.genruntimeconfig.cache
